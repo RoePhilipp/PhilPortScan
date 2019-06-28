@@ -1,0 +1,7 @@
+C:\Users\Philipp\source\repos\PhilPortScan\PhilPortScan\bin\Debug\PhilPortScan.exe.config
+C:\Users\Philipp\source\repos\PhilPortScan\PhilPortScan\bin\Debug\PhilPortScan.exe
+C:\Users\Philipp\source\repos\PhilPortScan\PhilPortScan\bin\Debug\PhilPortScan.pdb
+C:\Users\Philipp\source\repos\PhilPortScan\PhilPortScan\obj\Debug\PhilPortScan.csprojAssemblyReference.cache
+C:\Users\Philipp\source\repos\PhilPortScan\PhilPortScan\obj\Debug\PhilPortScan.csproj.CoreCompileInputs.cache
+C:\Users\Philipp\source\repos\PhilPortScan\PhilPortScan\obj\Debug\PhilPortScan.exe
+C:\Users\Philipp\source\repos\PhilPortScan\PhilPortScan\obj\Debug\PhilPortScan.pdb
